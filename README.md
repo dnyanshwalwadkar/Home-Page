@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dnyanshwalwadkar
-- 👀 I’m work on Artificial Intelligence / Machine Learning / Data Science Innovative Work & Project
-- 🌱 I’m currently learning Deep Neural Network, ML Advance Algorithm with mathematical Detials & Big data Architectural Working 
+- 👀 I work on Artificial Intelligence / Machine Learning / Data Science Innovative Work & Project
 - 📫 How to reach me pls mail me on dnyaneshwalwadkar10@gmail.com or d.walwadkar@se21.qmul.ac.uk.
 
 <!---
